@@ -19,7 +19,7 @@ public class primeNumber {
     if(flag==true){
 		System.out.println(n+": is  a prime number");
 
-	}
-}
+	}//if
+}//main
 	
-}
+}//class 
